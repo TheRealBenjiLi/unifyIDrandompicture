@@ -1,4 +1,4 @@
-# unifyIDrandompicture
+# UnifyID Random Picture
 
 Hi there! This is code used in UnifyID's coding challenge to me on October 10th, 2017. Per instruction, I have published the code on my GitHub. 
 
